@@ -16,7 +16,6 @@ Stay Connected with us on
 
 Date and Time: Saturday, 10 JAN 2015 - 10 AM
 
-Venue: Cubic Business Centre, 10, Cubic Business Centre
-7th Cross Road
+Venue: Cubic Business Centre, 10, 7th Cross Road
 Jakasandra Block, Koramangala 3 Block, Koramangala
 Bengaluru, Karnataka 560034
