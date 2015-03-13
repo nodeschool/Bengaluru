@@ -10,11 +10,11 @@ If any One Intrested to part of this event as a mentor Please contact us in the 
 
 Stay Connected with us on
 
-<a href="http://www.meetup.com/Bengaluru-Nodeschool-Event/" target="_blank">NodeSchool Meetup </a>
+<a href="http://www.meetup.com/Bengaluru-Nodeschool-Event/" target="_blank">NodeSchool Meetup #2 </a>
 
 <a href="https://twitter.com/BLRNodejs" target="_blank">@BLRNodejs</a>
 
-Date and Time: Saturday, 10 JAN 2015 - 10 AM
+Date and Time: Sunday, 22 March 2015 - 10 AM
 
 Venue: Cubic Business Centre, 10, 7th Cross Road
 Jakasandra Block, Koramangala 3 Block, Koramangala
