@@ -14,7 +14,7 @@ Stay Connected with us on
 
 <a href="https://twitter.com/BLRNodejs" target="_blank">@BLRNodejs</a>
 
-Date and Time: Sunday, 22 March 2015 - 10 AM
+Date and Time: Sunday, 28 June 2015 - 10 AM
 
 Venue: Cubic Business Centre, 10, 7th Cross Road
 Jakasandra Block, Koramangala 3 Block, Koramangala
