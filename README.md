@@ -10,7 +10,7 @@ If any One Intrested to part of this event as a mentor Please contact us in the 
 
 Stay Connected with us on
 
-<a href="http://www.meetup.com/Bengaluru-Nodeschool-Event/" target="_blank">NodeSchool Meetup #2 </a>
+<a href="http://www.meetup.com/Bengaluru-Nodeschool-Event/" target="_blank">NodeSchool Meetup #3 </a>
 
 <a href="https://twitter.com/BLRNodejs" target="_blank">@BLRNodejs</a>
 
