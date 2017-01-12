@@ -3,7 +3,8 @@ Bengaluru
 
 Bengaluru nodeschool Chapter
 
-Mentors are Being Invited for the Node School Event.
+Speakers Intrested for Upcoming Node School Event  Can Create issue in the repository.
+==
 
 
 If any One Intrested to part of this event as a mentor Please contact us in the Issues Section for <a href="https://github.com/nodeschool/bangalore/issues/4">Mentors Required</a>  Issues
