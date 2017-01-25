@@ -3,7 +3,7 @@ Bengaluru
 
 Bengaluru nodeschool Chapter
 
-Next Bengaluru NodeSchool Meetup on 29th Jan 2017 Click <a href="https://www.meetup.com/Bengaluru-Nodeschool-Event/events/237032995/" target="_blank">here </a> for more info
+Next Bengaluru NodeSchool Meetup on 12th Feb 2017 Click <a href="https://www.meetup.com/Bengaluru-Nodeschool-Event/events/237032995/" target="_blank">here </a> for more info
 ==
 Speakers Intrested for Upcoming Node School Event  Can Create issue in the repository.
 ==
