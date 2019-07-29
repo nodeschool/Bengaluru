@@ -1,7 +1,7 @@
 Bengaluru
 =========
 
-Bengaluru nodeschool Chapter
+Bengaluru NodeSchool Chapter
 
 
 Stay Connected with us on
